@@ -1,3 +1,4 @@
 This is sample file 2
 
 ChangedRevert
+This is a comparison lecture
